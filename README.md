@@ -10,7 +10,7 @@
 
 **NASA API** is a lightweight REST API built with Javascript that integrates NASA open data API. </br>
 This project that connects to the NASA Open APIs (via api.nasa.gov) to fetch and display interesting space- and Earth-science data. </br>
-The purpose is to build a simple web application to explore NASA’s publicly accessible data endpoints and create engaging visualizations or interfaces. </br>
+The purpose is to build a simple web application to explore NASA’s publicly accessible data endpoints and create engaging interfaces. </br>
 It provides structured endpoints that make it easy to consume NASA’s fascinating space data for learning, research, or fun side projects.
 
 ---
